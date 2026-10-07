@@ -1,75 +1,114 @@
-# Privacy Policy
+# Ohana de Ventura — Privacy Policy
 
 **Last Updated: October 2026**
 
-This Privacy Policy explains how the Ventura Discord Bot Network handles information when you interact with Ventura bots on Discord.
+This Privacy Policy explains how **Ohana de Ventura** and the **Ventura Bot Network** handle information when members interact with Ventura bots and related digital services through Discord.
 
-## 1. Information We May Receive
+## 1. About This Policy
 
-Depending on the features being used, a Ventura bot may have access to information made available to it through Discord, such as:
+Ohana de Ventura is a Discord community supported by the Ventura Bot Network.
+
+The Ventura Bot Network consists of automated Discord applications and related digital tools designed to provide information, entertainment, community features, and other services.
+
+This policy applies to information processed through those services.
+
+## 2. Information a Ventura Bot May Receive
+
+Depending on the bot and the feature being used, a Ventura bot may have access to information made available through Discord, including:
 
 - Discord user ID
 - Discord username and display information
 - Server and channel information
-- Messages or commands sent directly to the bot
-- Information necessary to provide a requested bot feature
+- Messages or commands directed to the bot
+- Information necessary to provide a requested feature
+- Technical information necessary to operate and troubleshoot the service
 
-Ventura does not request or intentionally collect passwords, payment card information, or Discord account credentials through its bots.
+The specific information available to a bot depends on its permissions, configuration, and the Discord features it uses.
 
-## 2. How Information Is Used
+Ventura bots are not designed to request Discord passwords, authentication credentials, or payment card information.
+
+## 3. How Information May Be Used
 
 Information available to Ventura bots may be used to:
 
-- Provide requested bot functions
-- Respond to commands
-- Maintain and improve bot functionality
+- Respond to commands and requests
+- Provide requested bot functionality
 - Support community features
-- Prevent abuse or misuse
-- Troubleshoot technical problems
+- Personalize or improve certain bot experiences
+- Maintain and troubleshoot services
+- Detect or prevent abuse and misuse
+- Improve the reliability and functionality of the Ventura Bot Network
 
-## 3. Third-Party Information
+## 4. Information From Third-Party Sources
 
-Some Ventura bot features may retrieve information from external websites, APIs, or other services.
+Some Ventura bots may retrieve information from external websites, APIs, databases, or other third-party services.
 
-When a bot provides information from an external source, that source may have its own privacy policy and terms.
+For example, an information-focused bot may retrieve current information from external sources before providing a response.
 
-## 4. Data Retention
+When a bot uses information from a third-party source, that source may have its own privacy policy, terms, and data practices.
 
-Ventura aims to collect and retain only information reasonably necessary to operate the bot and its features.
+## 5. Data Retention
 
-Specific data retention practices may vary depending on the bot and feature involved.
+Ohana de Ventura and the Ventura Bot Network aim to collect and retain only information reasonably necessary to operate the applicable service.
 
-## 5. Data Sharing
+Retention practices may vary depending on the bot, feature, technical requirements, and information involved.
 
-Ventura does not sell personal information collected through its Discord bots.
+Where information is no longer reasonably necessary for an operational purpose, it may be deleted or otherwise removed in accordance with applicable practices.
 
-Information may be processed by third-party services when necessary to provide a specific bot feature, operate infrastructure, retrieve information, or maintain the service.
+## 6. Data Sharing
 
-## 6. Security
+Ohana de Ventura does **not sell personal information** collected through its Discord bots.
 
-Reasonable measures are used to protect information associated with the Ventura bot network. However, no internet-connected service can guarantee absolute security.
+Information may be processed by third-party providers when reasonably necessary to:
+
+- Operate bot infrastructure
+- Retrieve external information
+- Provide requested functionality
+- Maintain security
+- Diagnose technical issues
+- Improve service reliability
+
+Third-party providers may have their own terms and privacy policies.
 
 ## 7. Discord
 
-Your use of Discord remains subject to Discord's Privacy Policy and other applicable Discord policies.
+Ohana de Ventura operates through Discord.
 
-Ventura does not control how Discord independently processes information.
+Your use of Discord remains subject to Discord's own Terms of Service, Privacy Policy, Community Guidelines, and other applicable policies.
 
-## 8. Children's Privacy
+Discord independently controls its platform and its own processing of information.
 
-The Ventura bot network is not specifically designed to collect personal information from children.
+## 8. Security
 
-Users should follow the age requirements and policies established by Discord.
+Reasonable measures are used to protect information associated with the Ventura Bot Network.
 
-## 9. Changes to This Policy
+However, no internet-connected service can guarantee absolute security.
 
-This Privacy Policy may be updated as the Ventura bot network develops. Changes will be reflected on this page.
+Members should also take appropriate steps to protect their own Discord accounts and credentials.
 
-## 10. Contact
+## 9. Children's Privacy
 
-Questions regarding privacy or information associated with the Ventura Discord Bot Network may be directed through the official Ventura community or designated support channels.
+Ohana de Ventura and the Ventura Bot Network are not specifically designed to collect personal information from children.
+
+Users must comply with Discord's applicable age requirements and policies.
+
+## 10. Your Choices
+
+If you have questions or concerns about information associated with your interaction with a Ventura bot, you may contact the Ohana de Ventura community through its designated support channels.
+
+Depending on the circumstances and applicable requirements, requests concerning information may be reviewed and addressed appropriately.
+
+## 11. Changes to This Policy
+
+This Privacy Policy may be updated as Ohana de Ventura and the Ventura Bot Network develop.
+
+When changes are made, the updated version will be published on this page.
+
+## 12. Contact
+
+Questions regarding this Privacy Policy or information associated with the Ventura Bot Network may be directed through the official Ohana de Ventura community or designated support channels.
 
 ---
 
-**Ventura Bot Network**  
-Powered by Ventura
+**Ohana de Ventura**  
+**Ventura Bot Network**
