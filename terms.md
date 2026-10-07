@@ -1,60 +1,95 @@
-# Terms of Service
+# Ohana de Ventura — Terms of Service
 
 **Last Updated: October 2026**
 
-Welcome to the Ventura Discord Bot Network.
+Welcome to **Ohana de Ventura**, a community and digital experience operated through Discord and supported by the Ventura Bot Network.
 
-These Terms of Service govern your use of bots and related services operated by Ventura within Discord.
+These Terms of Service govern your use of the Ventura bots and related digital services available within Ohana de Ventura.
 
 ## 1. Acceptance of Terms
 
-By interacting with or using a Ventura bot, you agree to these Terms of Service. If you do not agree, please discontinue use of the bot.
+By joining Ohana de Ventura, interacting with a Ventura bot, or using a related bot feature, you agree to these Terms of Service.
 
-## 2. Bot Services
+If you do not agree with these terms, please discontinue use of the applicable service.
 
-Ventura bots are designed to provide community-focused information, entertainment, automation, and assistance within Discord.
+## 2. Ohana de Ventura
 
-Features may change, be added, or be discontinued at any time.
+Ohana de Ventura is a community environment designed to bring people together through conversation, shared interests, entertainment, information, networking, and digital experiences.
 
-## 3. Appropriate Use
+The Ventura Bot Network provides automated tools and services designed to enhance that community experience.
+
+Individual bots may have different purposes, features, and limitations.
+
+## 3. Ventura Bot Network
+
+The Ventura Bot Network refers to automated Discord applications and related digital services operated for or in connection with Ohana de Ventura.
+
+Examples may include:
+
+- Ventura Horoscope
+- Community and information tools
+- Entertainment and gaming tools
+- Travel and location resources
+- Events and activity resources
+- Other community-focused services introduced in the future
+
+Features may be added, modified, suspended, or discontinued at any time.
+
+## 4. Appropriate Use
 
 You agree not to:
 
-- Abuse, exploit, or intentionally disrupt the bot or its services.
-- Attempt to gain unauthorized access to the bot, its systems, or related infrastructure.
-- Use the bot for unlawful purposes.
-- Interfere with other members' use of the community.
-- Attempt to circumvent Discord's safety, security, or platform rules.
+- Abuse, exploit, or intentionally disrupt a Ventura bot or related service.
+- Attempt to gain unauthorized access to the bot, its systems, accounts, or infrastructure.
+- Use the bots or community for unlawful purposes.
+- Attempt to interfere with another member's use of the community.
+- Attempt to bypass security measures or access restrictions.
+- Use automated systems to abuse, overload, or interfere with the services.
+- Violate Discord's Terms of Service or Community Guidelines.
 
-## 4. Discord
+## 5. Information and Automated Responses
 
-Your use of Discord remains subject to Discord's own Terms of Service and Community Guidelines.
+Ventura bots may retrieve, process, summarize, or generate information in response to commands or community interactions.
 
-Ventura does not control Discord's platform, policies, availability, or services.
+Information supplied by a bot may come from external sources, automated systems, or generated responses and should be evaluated appropriately before being relied upon.
 
-## 5. Information and Accuracy
+## 6. No Professional Advice
 
-Information provided by Ventura bots may be generated, summarized, retrieved, or interpreted from third-party sources.
+Information provided by Ventura bots is intended for general informational, entertainment, or community purposes.
 
-Information is provided for general informational and entertainment purposes and should not be treated as professional advice.
+Unless expressly stated otherwise, information provided by the bots does not constitute professional medical, legal, financial, tax, mental health, or other professional advice.
 
-## 6. Third-Party Services
+## 7. Third-Party Services
 
-Some bot features may rely on third-party websites, APIs, services, or information sources. Ventura is not responsible for the availability or accuracy of third-party services.
+Some features may rely on third-party websites, APIs, data providers, platforms, or other services.
 
-## 7. Availability
+Ohana de Ventura and the Ventura Bot Network do not control those third-party services and are not responsible for their availability, policies, content, or accuracy.
 
-Ventura does not guarantee that any bot or feature will always be available, uninterrupted, or error-free.
+## 8. Discord
 
-## 8. Changes
+Your use of Ohana de Ventura and its bots occurs through Discord and remains subject to Discord's applicable Terms of Service, Community Guidelines, Privacy Policy, and other platform policies.
 
-These Terms may be updated as the Ventura bot network develops. Continued use of the bots after changes are published constitutes acceptance of the updated Terms.
+Discord is an independent third-party platform.
 
-## 9. Contact
+## 9. Availability
 
-Questions regarding the Ventura Discord Bot Network may be directed through the official Ventura community or designated support channels.
+We do not guarantee that Ohana de Ventura, the Ventura Bot Network, or any individual bot or feature will always be available, uninterrupted, secure, or error-free.
+
+Services may occasionally be unavailable because of maintenance, technical issues, third-party outages, platform changes, or other circumstances.
+
+## 10. Changes to These Terms
+
+These Terms of Service may be updated as Ohana de Ventura and the Ventura Bot Network develop.
+
+When material changes are made, the updated version will be published on this page.
+
+Continued use of the applicable services after changes are published constitutes acceptance of the updated terms.
+
+## 11. Contact
+
+Questions regarding Ohana de Ventura, the Ventura Bot Network, or these Terms of Service may be directed through the official Ohana de Ventura community or designated support channels.
 
 ---
 
-**Ventura Bot Network**  
-Powered by Ventura
+**Ohana de Ventura**  
+**Ventura Bot Network**
